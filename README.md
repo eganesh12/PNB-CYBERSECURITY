@@ -2,7 +2,7 @@
 
 > **Live Demo:** [https://c-navy-sigma.vercel.app](https://c-navy-sigma.vercel.app)
 
-A full-stack cybersecurity dashboard prototype built for the **Punjab National Bank Cybersecurity Hackathon 2026**, featuring Post-Quantum Cryptography (PQC) readiness assessment, asset discovery, certificate generation with QR verification, and AI-powered threat analytics.
+A full-stack cybersecurity dashboard prototype built for the **Punjab National Bank Cybersecurity , featuring Post-Quantum Cryptography (PQC) readiness assessment, asset discovery, certificate generation with QR verification, and AI-powered threat analytics.
 
 ---
 
