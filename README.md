@@ -194,12 +194,10 @@ Shows full certificate details + live scan timestamp
 
 ---
 
-## 🏆 Hackathon Context
-
-- **Event:** PNB Cybersecurity Hackathon 2026
+##
 - **Theme:** Post-Quantum Cryptography Readiness
 - **Focus Areas:** Asset Discovery, CBOM, PQC Posture, Cyber Rating
-- **Collaboration:** Punjab National Bank · IIT Kanpur · Department of Financial Services · IBA
+- 
 
 ---
 
